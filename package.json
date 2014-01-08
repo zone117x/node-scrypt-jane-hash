@@ -1,0 +1,26 @@
+{
+    "name": "scrypt-jane-hash",
+    "version": "0.0.1",
+    "main": "scryptjanehash",
+    "author": {
+        "name": "Matthew Little",
+        "email": "zone117x@gmail.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "http://github.com/zone117x/node-scrypt-jane-hash.git"
+    },
+    "keywords": [
+        "scrypt",
+        "scrypt-jane",
+        "jane",
+        "scryptjane",
+        "yac-scrypt",
+        "yacscrypt",
+        "hash",
+        "256",
+        "yacoin",
+        "crypto",
+        "cryptocurrency"
+    ]
+}
